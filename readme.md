@@ -1,4 +1,4 @@
-# H2 Git theory
+#H2 Git theory
 
 # H3 Базовые консольные команды.
 
